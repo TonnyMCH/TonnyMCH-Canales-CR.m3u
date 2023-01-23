@@ -1,10 +1,10 @@
 #EXTM3U
  
 #EXTINF: -1, Canal 7  Teletica
-https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5wnkOU9Krzakh2g2RSXNpXTNX_aTimj6V9RvpS1sf_DS)/dm/3/x29e3wg/s/live-1.m3u8
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO57Em0bmZryZq1M96pqkK8hmZ8QBQnT1pZaDLAtdvpQ94)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF: -1, Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63cd6fceaffdf30001da2f76&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674494286%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D5cc303ddff9c681a8f306922737658ae8419fe232ed8c0d318ca5c0faa090b7d
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63cf1721e639be000107ca10&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674602657%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D01aa9a9b6bc575ffe74ed40d99351598623a7fd0288f9cb805fe3b6e0a877c1c
 
 #EXTINF: -1, Canal 6 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
