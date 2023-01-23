@@ -1,0 +1,31 @@
+#EXTM3U
+ 
+#EXTINF: -1, Canal 7  Teletica
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52y3VGTeBOkU9OLZKjgR8ii9gxu4HofCaaJYg1c14_s2)/dm/3/x29e3wg/s/live-2.m3u8
+
+#EXTINF: -1, Sembrador
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63cd6fceaffdf30001da2f76&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674494286%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D5cc303ddff9c681a8f306922737658ae8419fe232ed8c0d318ca5c0faa090b7d
+
+#EXTINF: -1, Canal 6 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
+
+#EXTINF: -1, Canal 4 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+
+#EXTINF: -1, Canal 11 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+
+#EXTINF: -1, San José TV
+https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
+
+#EXTINF: -1, Canal 13 Sinart
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYOFVUn2mvKdb-oxC_Q5ndj-G3onl9Jgbn6IJ8SMxx5n)/dm/3/x7vh8g3/d/live-0.m3u8#cell=lnyc
+
+#EXTINF: -1, Canal 14 TvSur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTINF: -1, 88stereo
+http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
+
+#EXTINF: -1,Sinai 🎶🙏
+http://198.27.68.65:8785/;mp3
