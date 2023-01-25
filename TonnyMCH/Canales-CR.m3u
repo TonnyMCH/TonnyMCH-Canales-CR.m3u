@@ -32,3 +32,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1, Anime TV
 https://azxtv.com/hls/stream.m3u8
+
+#EXTINF: -1, Prueba
+https://www.dailymotion.com/embed/video/x29e3wg?autoplay=1
+
