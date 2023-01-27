@@ -1,25 +1,13 @@
 #EXTM3U
  
 #EXTINF: -1, Canal 7  Teletica
-https://stream-02.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41zyLjmcTCJDMi6l0rF0LYzF6jhm3eRna6tmrSO5LOw7)/dm/3/x83x5y5/s/live-1.m3u8
+https://stream-03.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52Q6K0GlMeKHciP6z_ouVYWzdCRwT4p9C2lyYfrL-BwY)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF: -1, Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d1220d59018f0001bbd32d&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674736525%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D4b728280e004ec9f93166d683eecd8f19af5a055e10345f95e976082644ef31c
-
-#EXTINF: -1, Canal 6 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
-
-#EXTINF: -1, Canal 4 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
-
-#EXTINF: -1, Canal 11 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_480/hdntl=exp=1674867498~acl=%2f*~data=hdntl~hmac=5d2dc09710bd28151ce230cd605bb2e9d71edb729e2fbde084be47f85535e9f5/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d321a606aad100016b4292&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674867494%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D09cc5feb8e4aa2aa12854ac52c81312c351c2e69d3554f2437481491c1eae828
 
 #EXTINF: -1, San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
-
-#EXTINF: -1, Canal 13 Sinart
-https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZRIxmb2undxcawF4mKqLTH1iKxQZ7wSYrrjrlVRk_W7z)/dm/3/x7vh8g3/d/live-2.m3u8
 
 #EXTINF: -1, Canal 14 TvSur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
@@ -36,3 +24,14 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF: -1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
+#EXTINF: -1, Canal 6 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
+
+#EXTINF: -1, Canal 4 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+
+#EXTINF: -1, Canal 11 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+
+#EXTINF: -1, Canal 13 Sinart
+https://stream-01.sv4.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZZVdxKMCPdcIKSbUUxFgiE_KtCUMjP6YbqOtSMvkwkY0)/dm/3/x7vh8g3/d/live-2.m3u8#cell=lsv4
