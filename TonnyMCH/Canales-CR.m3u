@@ -4,7 +4,7 @@
 https://stream-03.sv4.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO52Q6K0GlMeKHciP6z_ouVYWzdCRwT4p9C2lyYfrL-BwY)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF: -1, Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_480/hdntl=exp=1674867498~acl=%2f*~data=hdntl~hmac=5d2dc09710bd28151ce230cd605bb2e9d71edb729e2fbde084be47f85535e9f5/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d321a606aad100016b4292&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674867494%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D09cc5feb8e4aa2aa12854ac52c81312c351c2e69d3554f2437481491c1eae828
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d3231a06aad100016b4572&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674867866%7Eacl%3D%2F*2041519%2F*%7Ehmac%3De695da50c528d59f3d053000f30bcb6f1dd13c0e52b62fe1e1c00db897ee73d5
 
 #EXTINF: -1, San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
