@@ -1,21 +1,21 @@
 #EXTM3U
  
-#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO57FIsl--UZGphNR0JieVuHggTPCVPGNA3dTwmZ9J9AJ_)/dm/3/x29e3wg/s/live-1.m3u8
 
-#EXTINF: -1, Sembrador
+#EXTINF: -1, tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d49aa581859c0001ba13d4&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674964005%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D3474cfb0f539b82c6c9395b0d7014a7253b67bc42d669513de742ac3dd4fbbe5
 
-#EXTINF: -1, San José TV
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
 
-#EXTINF: -1, Canal 14 TvSur
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
-#EXTINF: -1, 88stereo
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png", 88stereo
 http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF: -1, DW
+#EXTINF: -1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF: -1, Anime TV
@@ -24,13 +24,13 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF: -1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF: -1, Canal 4 Repretel
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
 
-#EXTINF: -1, Canal 6 Repretel
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png",Canal 6 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 
-#EXTINF: -1, Canal 11 Repretel
+#EXTINF: -1, group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
