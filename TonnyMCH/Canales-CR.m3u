@@ -35,3 +35,6 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
+
+#EXTINF:-1 pRUEBa
+https://raw.githubusercontent.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/main/TonnyMCH/Anime
