@@ -4,7 +4,7 @@
 https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO57FIsl--UZGphNR0JieVuHggTPCVPGNA3dTwmZ9J9AJ_)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF: -1, Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d3231a06aad100016b4572&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674867866%7Eacl%3D%2F*2041519%2F*%7Ehmac%3De695da50c528d59f3d053000f30bcb6f1dd13c0e52b62fe1e1c00db897ee73d5
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1674963754~acl=%2f*~data=hdntl~hmac=eca11d7fb16dedbb141f407418c6a8f51df5f3e906e2a9dc70ba327e05c09d7d/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d499a37a589e0001ca96f6&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674963747%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D16ad1e9e193d8429336eadcb5a2ce79392e58d43a62fd93f28db1db411ba8546
 
 #EXTINF: -1, San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
@@ -24,11 +24,11 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF: -1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 
-#EXTINF: -1, Canal 6 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
-
 #EXTINF: -1, Canal 4 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+
+#EXTINF: -1, Canal 6 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 
 #EXTINF: -1, Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
