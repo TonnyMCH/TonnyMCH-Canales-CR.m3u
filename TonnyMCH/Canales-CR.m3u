@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO57FIsl--UZGphNR0JieVuHggTPCVPGNA3dTwmZ9J9AJ_)/dm/3/x29e3wg/s/live-1.m3u8
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5wBk_FUbYcSFaU4psQNrYVS0d6XjlMqoTVwkb80GXsrl)/dm/3/x29e3wg/s/live-1.m3u8
 
 #EXTINF: -1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d49aa581859c0001ba13d4&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1674964005%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D3474cfb0f539b82c6c9395b0d7014a7253b67bc42d669513de742ac3dd4fbbe5
@@ -36,5 +36,5 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 
-#EXTINF:-1, pRUEBa
-https://raw.githubusercontent.com/TonnyMCH/TonnyMCH-Canales-CR.m3u/main/TonnyMCH/Canales-CR.m3u
+#EXTINF:-1, Televisa
+https://channel04dai-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=st=1674913048~exp=1674913348~acl=*~id=76c36bf6-7411-47f5-a5fb-a9bb10bb4d07~hmac=92d250316670e3e044b98b4c2e92c69f90b7ca6a3578df217aa7837edfc72d8b&originpath=/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/91807fcb-a3bd-4376-844d-5001b19b6a9c:TUL/master.m3u8&hdnea=exp=1674913623~acl=/*~hmac=2fa91bb7841417080dddae1e58b75f8f301281f53d51de8455b4a8a6b0b2b286
