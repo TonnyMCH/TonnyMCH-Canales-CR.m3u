@@ -36,5 +36,5 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 
-#EXTINF:-1, Televisa
-https://channel04dai-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=st=1674913048~exp=1674913348~acl=*~id=76c36bf6-7411-47f5-a5fb-a9bb10bb4d07~hmac=92d250316670e3e044b98b4c2e92c69f90b7ca6a3578df217aa7837edfc72d8b&originpath=/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/91807fcb-a3bd-4376-844d-5001b19b6a9c:TUL/master.m3u8&hdnea=exp=1674913623~acl=/*~hmac=2fa91bb7841417080dddae1e58b75f8f301281f53d51de8455b4a8a6b0b2b286
+#EXTINF:-1 group-title="ANIMACION" tvg-logo="https://media.game.es/COVERV2/3D_L/153/153159.png",Freezer (2015)
+https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
