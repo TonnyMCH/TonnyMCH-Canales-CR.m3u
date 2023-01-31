@@ -18,8 +18,8 @@ http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF: -1, Anime TV
-https://azxtv.com/hls/stream.m3u8
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA", TELESUR ~
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w987132442.m3u8
 
 #EXTINF: -1, Cartoon Network
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
