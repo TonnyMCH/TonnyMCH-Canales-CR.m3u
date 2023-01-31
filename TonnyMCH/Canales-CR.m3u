@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51QcWBs5GbUgZE25UFn1Q1f8_-RF6O0jFyiKp-fETfbo)/dm/3/x29e3wg/s/live-2.m3u8
+https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUM7YtfB3S1KP1-GyLZ6dVr4-VqQHXyTAXn00R1sA8t5Aihtqs8AoIUDq57ryN3OK5Q&dmTs=205259&dmV1st=21015146-293b-4fdc-8960-36e32bf99d27
 
 #EXTINF: -1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d863bad7c66e000190e4c9&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1675212090%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D1df755b45788ca7bb9f973df3f37e82b86d48f8dbac5978a7631dab072142b4a
@@ -38,3 +38,9 @@ https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://media.game.es/COVERV2/3D_L/153/153159.png",Freezer (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
+
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7-1  Teletica
+https://stream-03.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5ySgumVAZ39Pt63nDEOpvrPsI3N_OCPLglQjxFzOaH2U)/dm/3/x29e3wg/s/live-2.m3u8
+
+
