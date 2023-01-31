@@ -1,10 +1,10 @@
 #EXTM3U
  
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://stream-04.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO5_z4KQXaFLB3c4Czcz1B-eUeygop-gowzLv8ZNnUtk4F)/dm/3/x29e3wg/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO51QcWBs5GbUgZE25UFn1Q1f8_-RF6O0jFyiKp-fETfbo)/dm/3/x29e3wg/s/live-2.m3u8
 
 #EXTINF: -1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1675092173~acl=%2f*~data=hdntl~hmac=0ec6d3953f1c2228aba22c80a462ffbebc6714ac0152b9f7ce9399f400591432/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d68f441dd8810001ed2a9a&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1675092164%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Df21e6cab1c4be764978354e0abe9dc56050fde376105e113eccc7e154adfa3e6
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63d863bad7c66e000190e4c9&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1675212090%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D1df755b45788ca7bb9f973df3f37e82b86d48f8dbac5978a7631dab072142b4a
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
