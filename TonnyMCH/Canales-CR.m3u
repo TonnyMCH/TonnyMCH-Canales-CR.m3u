@@ -21,7 +21,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA", TELESUR ~
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w987132442.m3u8
 
-#EXTINF: -1, group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
+#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
