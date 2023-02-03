@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO53han0M8R1z9-HrgrPUjtFvkpNkHitbAmuTElmFwBzfN)/dm/3/x29e3wg/s/live-2.m3u8
+https://delivery160.akamai-cdn-content.com/hls2/01/01018/9j42ne863j8b_,n,h,.urlset/master.m3u8?t=qpa3N25xaYJRCoUcDJVVShKuziEwbJGgN5bKqhVd8Qg&s=1675388346&e=10800&f=5090048&srv=sto084&client=186.179.73.141
 
 #EXTINF: -1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63dbfa4ab0bb1e0001d1dcdf&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1675447242%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D7faab7380e0515f89283534bac04a652f2dc23b09ad9b759893d41cf4c21da0c
