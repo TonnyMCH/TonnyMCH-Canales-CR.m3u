@@ -3,15 +3,35 @@
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
 https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUE6bReJe5TSrmwW_FPV18wVvUpBj7H19UWBvlrKnM0-Pv2dSAIo8l731QO-yrppfTw&dmTs=205259&dmV1st=21015146-293b-4fdc-8960-36e32bf99d27
 
-#EXTINF: -1, Teletica
-https://stream-02.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO56XVE_Ce6gM090gf_M0llQjuupXdoqNDZtkBsyVy1p71)/dm/3/x29e3wg/s/live-0.m3u8#cell=lnyc
-
-
-#EXTINF: -1 tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
+#EXTINF: -1 group-title="Religioso 🙏" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519-b/main/defEvent_1_720/hdntl=exp=1675618881~acl=%2f*~data=hdntl~hmac=c7aaac997401081eee929f1f5980f1c8630b8ba6f954cac3adff772b391677ff/chunklist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63de98b61d1fc700015058c2&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1675618870%7Eacl%3D%2F*2041519%2F*%7Ehmac%3Df731ba8abd012893c2c083511eaad8b46523fc038a1d61df2c39fcbc9d20b8a3
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
+
+#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios 
+http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="Mexico" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios Monterrey
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://photocall.tv/images/multivision.png",Multivision Argentina
+http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://photocall.tv/images/telemax.png",Telemax
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/xu8lnw9.png",Telemax | HD
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/TgSeikY.png",TEN Honduras | HD
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
+
+#EXTINF:-1 group-title="Cine" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png",Wow TV
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+
+#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg",TEN Canal 10
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
