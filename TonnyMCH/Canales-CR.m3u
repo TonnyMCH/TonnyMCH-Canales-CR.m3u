@@ -45,26 +45,14 @@ http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/xu8lnw9.png",Telemax | HD
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
 
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://i.imgur.com/TgSeikY.png",TEN Honduras | HD
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/master.m3u8
-
 #EXTINF:-1 group-title="Cine" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="http://4.bp.blogspot.com/-4_4lQS5_e0g/VmfAAPjGsgI/AAAAAAAAAjY/QCMhrAcZUYE/s1600/TEN.jpg",TEN Canal 10
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
-
-#EXTINF:-1 ,SicardiTV
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsicarditv.com.ar%2F&psig=AOvVaw2NQ79-H2Aq-BPJ-NtqlvbT&ust=1676752880650000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCX-7C1nf0CFQAAAAAdAAAAABAE", SicardiTV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 group-title="Doctor Who",Doctor Who 🩺⌛
 https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_DoctorWho/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3875&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=9c3f5860-b8df-48e2-a0e8-0e614c67b72d&ads.user_type=visitor&ads.wurl_channel=931
-
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
-https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
-
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png", 88stereo
-http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
@@ -77,7 +65,7 @@ https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_77
 
 
 
-#EXTINF:-1 group-title="Películas Anime" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
+#EXTINF:-1 group-title="Películas Anime" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 
 #EXTINF:-1 group-title="Películas Anime" tvg-logo="https://media.game.es/COVERV2/3D_L/153/153159.png",Freezer (2015)
