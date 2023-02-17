@@ -1,7 +1,7 @@
 #EXTM3U
  
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live4/chunks.m3u8
+https://6zklxk9bdw9b-hls-live.5centscdn.com:443/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live1/chunks.m3u8
 
 #EXTINF: -1 group-title="Religioso 🙏" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63ebbd69ad36da0001aa9648&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1676480233%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D7ef6105e7d35cea9975244dc2caf969abe0f9e0c7ab5d465388fb4077fb38d73
