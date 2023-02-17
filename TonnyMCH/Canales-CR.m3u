@@ -1,16 +1,25 @@
 #EXTM3U
  
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://photos.google.com/album/AF1QipO7SSwKsjnvaZn2pg2D3aI7oZIS3QrFh2taarL0/photo/AF1QipPZ6bJT0z1UmYqBpdQfhFuscp7xj2x5nnBQkJGu", Canal 7  Teletica
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://photos.google.com/album/AF1QipO7SSwKsjnvaZn2pg2D3aI7oZIS3QrFh2taarL0/photo/AF1QipM9z1TRlWnA2qa_CkYS0zQtzXE9OE6nmY6MW7uG", Radio Teletica
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png", Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF: -1 group-title="Religioso 🙏" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63efc9cd7d64220001eb906f&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1676745549%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D43664cb781769725fb3bed7347f7b8810b29c3b4b7f5b3bd1e7cbebaa5a347d7
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png",Canal 6 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
+https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
@@ -61,14 +70,7 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w987132442.m3u8
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png",Canal 6 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
-
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
