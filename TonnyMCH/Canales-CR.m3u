@@ -1,7 +1,8 @@
 #EXTM3U
  
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://photos.google.com/album/AF1QipO7SSwKsjnvaZn2pg2D3aI7oZIS3QrFh2taarL0/photo/AF1QipPZ6bJT0z1UmYqBpdQfhFuscp7xj2x5nnBQkJGu", Canal 7  Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
+
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
