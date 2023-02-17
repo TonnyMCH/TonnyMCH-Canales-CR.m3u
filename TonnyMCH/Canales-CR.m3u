@@ -21,8 +21,14 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
-#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios 
+#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png",Multimedios 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png", 88stereo
+http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
 #EXTINF:-1 group-title="Mexico" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios Monterrey
 http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
@@ -33,7 +39,7 @@ http://panel.dattalive.com:1935/8250/8250/.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://photocall.tv/images/telemax.png",Telemax
 http://s5.mexside.net:1935/telemax/telemax/.m3u8
 
-#EXTINF:-1 ,Canal 9
+#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png", Canal 9
 http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
 
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://i.imgur.com/xu8lnw9.png",Telemax | HD
@@ -54,7 +60,6 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 #EXTINF:-1 group-title="Doctor Who",Doctor Who 🩺⌛
 https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_DoctorWho/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3875&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=9c3f5860-b8df-48e2-a0e8-0e614c67b72d&ads.user_type=visitor&ads.wurl_channel=931
 
-
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
@@ -72,15 +77,15 @@ https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_77
 
 
 
-#EXTINF:-1 group-title="ANIMACION" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
+#EXTINF:-1 group-title="Películas Anime" tvg-logo="https://www.openpelis.com/imagenes/pelis/2020-08-15-4085579736.jpg",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 
-#EXTINF:-1 group-title="ANIMACION" tvg-logo="https://media.game.es/COVERV2/3D_L/153/153159.png",Freezer (2015)
+#EXTINF:-1 group-title="Películas Anime" tvg-logo="https://media.game.es/COVERV2/3D_L/153/153159.png",Freezer (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
 
 
-#EXTINF:-1, Radio Teletica
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
+#EXTINF:-1, Prueba
+
 
 
 
