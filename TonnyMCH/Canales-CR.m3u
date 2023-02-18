@@ -3,9 +3,6 @@
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png", Radio Teletica
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
-
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63efc9cd7d64220001eb906f&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1676745549%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D43664cb781769725fb3bed7347f7b8810b29c3b4b7f5b3bd1e7cbebaa5a347d7
 
@@ -71,9 +68,12 @@ https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
 #EXTINF:-1 group-title="Películas Anime" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Freezer (2015)
 https://archive.org/download/magical-girl-lyrical-nanoha-reflection-2017/Dragon%20Ball%20Z%20La%20resurreccio%CC%81n%20de%20Freezer%20%282015%29.mp4
 
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png", Radio Teletica
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1, Prueba
 
+#EXTINF:-1, Anime del día
+https://ff93927b3f3e1c559f9a038b67956a4ffc79ccef2fcb0077d74271f-apidata.googleusercontent.com/download/storage/v1/b/ralentando/o/rougonisonatesisekaide8s-06.mp4?jk=AahUMlugFbreuHSz77vP9VJzvxgCqLpTe5knLHTSL8TaNn86oWXrGpWz_CjCV80vI0KbA16RZcGGoP0bEHP7_t-Egm5qJLWy14WNU_ymCgJ8bJGdlOXzGUDeVpheEHMhzlJQJhoJmTlnrXaaHIYj04q0CDBdOFy7IouDoQj5YblxVjjkzwct7sA13BXmpxz86-KapHCTHCFF4aFGZtbkR0r02YV32sBAO8gRJaa8nb4l5xm5uIGKafavmP-kpA8363Y4zGjjS9eJRh2VmN-u2leM3nzgrRp1SW6Fs4zKasmQiG48VwBr0Ftqs73s6d9nIShfd19fHiz2Ha5Oa-DfduBVA7gqP4lSA2ZPzguYVhbYIitQAMVqLk7GVCtYBFRE211EpVgdRDlmXhIQp8FHaX11agDzMyrdih67joERyyXvxVQqNRnXxvzY-x-vVgK3IErKDBAOTYSawTaHxhP26ObDQAthOTIai1OYBYMzM2k9L4LrX9bPdDXVJtEYqT_XbyLeIW8nkswEEF6MOgGYfTCFomroHJnjMBGJ1C5YY50s7_s9YcUd-DMl_zTL4Ifz0Hw-ry24frYdAutRBi0htLufhfx8mF-9W0UiYdkS2D0TDQHXxIYqZvUXx5U8jTbi-TcGMfT47yob1zDG8o4bPRelP0SClJHMsMU_lbM1eEflsRenLhfyvShqV3RGM5h3tTpmUSEqLRHtCcN6mjAo2gZRFpVDdcu224VK8TDRigZ4T5qaeWwhWCv8NmsMzvUz0i996ynbsY7tcJIruqvjqd9apO3MIR1oKvABB0QPfT5O-6vLlF38C0cQzs2_0s990ZGEtwIRGoJqgZ0IMRkZM6kaXQ3FaMb9mX5qm5Y1b47KQw2IsXgV-AcIivSmuFEZ3MV6NWcMxNoaBXviKAn8kcWivxhvjrJBgiB1N42lZA6HH35SVFZvieEUwXtn6NieRc3-_Fl4frL2EXDDOOOzOgorxmzZlSLlSYkZA6SKC8PkP2vIVn5Lq9av1ugReKwTO-zpDLrzGjSLCdZIfGHreUKHf3fmq4hIjijUNhz2oTsEM3-tuKtr9BF4LQrzXopJBiLw5p7nSLhqi-xhPX3ICxjKczoYOVraDMlXNVlLHr7u1XMZUg7j6oP6dpurqm9oyZYlIoUbrmiVmDm_hyOoEXf1L_SrKninz_b2e9p5HtLhrtKHUehpY63InvoBvpLtsEt_7le3ssk0LlQupBylZ656r6Q&isca=1
 
 
 
