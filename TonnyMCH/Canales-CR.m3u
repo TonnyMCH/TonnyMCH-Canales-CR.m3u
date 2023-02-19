@@ -4,7 +4,7 @@
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/TeleticaLiveStream/Stream7live3/chunks.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
-https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63efc9cd7d64220001eb906f&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1676745549%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D43664cb781769725fb3bed7347f7b8810b29c3b4b7f5b3bd1e7cbebaa5a347d7
+https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/playlist.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=63f2b70188a86b00013600e1&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1676937345%7Eacl%3D%2F*2041519%2F*%7Ehmac%3D10f5744f4fa0d67b61cb22abf81da2894d00c10be91b80d8fa14d51a668bc303
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
