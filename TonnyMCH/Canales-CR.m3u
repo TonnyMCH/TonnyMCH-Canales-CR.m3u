@@ -60,7 +60,8 @@ https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
-
+#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://animedb.org/styles/img/nekogirl.webp", Dragón Ball Super 
+https://live.telelatinohd.com:8080/MTg2LjE3OS43My4xNDE=/191_.m3u8?token=rkZoK8_dNUQhR_Ru1M0cqQ&expires=1677057363
 
 #EXTINF:-1 group-title="Películas Anime" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Amor de gata (2020)
 https://archive.org/download/Amadrinadas/Amor%20de%20gata%20%282020%29.mp4
