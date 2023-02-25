@@ -60,8 +60,8 @@ https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
-#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://animedb.org/styles/img/nekogirl.webp", Dragón Ball Super 
-https://live.telelatinohd.com:8080/MTg2LjE3OS43My4xNDE=/191_.m3u8
+#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://animedb.org/styles/img/nekogirl.webp", Tv Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Espía Invisible (2020)
 https://archive.org/download/sr-y-sra-smith/Esp%C3%ADa%20invisible.mp4
@@ -69,6 +69,8 @@ https://archive.org/download/sr-y-sra-smith/Esp%C3%ADa%20invisible.mp4
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png", Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="Películas" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Películas familiares
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
 
 #EXTINF:-1, Anime del día
 http://tecnomasterapp.tk/2099/tvplutopro.m3u
