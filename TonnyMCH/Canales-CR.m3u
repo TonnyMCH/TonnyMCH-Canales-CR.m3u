@@ -22,6 +22,12 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
+#EXTINF:0 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv CostaRica
+#EXTVLCOPT:http-user-agent=NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5Eqy2gvfrcTpW2
+#EXTVLCOPT:NbF7LdU3b3QkP6DGgN92KmHAb8nkrbV6dwvCX2jkSZxeX4TgzSnxSCfgHLJvuZciAc9EXeYjDGmQwevVYQrcBuDV9uYXBGm6BtaxAGJ58B26Mgxb6qrzFPzGFzVCTkNRBPzZjNbpQCp7S2E4wpt9mwTwS9kaGNj8qK5TiEuxZK5zKdVdSXhCBuxTNwtiwRxL56M3QqZmdkhXmbZd7wScM6qEMYnKp5E
+https://nkh8wh7k8f6c7tz9h7dk.xyz/rk/Fhgfjjgyhfvxxvbbmbcfsaggfwrhhvpolkjyyuh/Asdqdffxfzxvbnmvcghhdsfhjlkhfdfeeghvuhg/897.ts
+
+
 #EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png",Multimedios 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
