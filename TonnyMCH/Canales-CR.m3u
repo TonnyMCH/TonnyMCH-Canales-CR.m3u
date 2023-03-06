@@ -64,7 +64,7 @@ https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
-#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://animedb.org/styles/img/nekogirl.webp", Cartoon Network 
+#EXTINF: -1 group-title="ANIMACION" tvg-logo="http://imgfz.com/i/3CqRW2U.png", Cartoon Network 
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30316
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Espía Invisible (2020)
@@ -88,7 +88,7 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37960
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.pinimg.com/originals/6a/34/3c/6a343ceb7470862f20c9f5d8835b372d.png",Cantinflas
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38745
 
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/CXl03Hv.png", HBO
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/lCmPpTh.png", HBO
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37999
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
