@@ -70,10 +70,10 @@ https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxS
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png", Anime SubEspañol 👀
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12076
 
-#EXTINF:-1 group-title="Películas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es", De Película 🎬📽
+#EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/YMuAK1Z.png", De Película 🎬📽
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37960
 
-#EXTINF:-1 group-title="Películas" tvg-logo="https://i.pinimg.com/originals/6a/34/3c/6a343ceb7470862f20c9f5d8835b372d.png",Cantinflas
+#EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/S0ABTwt.png",Cantinflas
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38745
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/lCmPpTh.png", HBO
