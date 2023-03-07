@@ -112,6 +112,15 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128016
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/uSaOyQe.png.png", UNIVERSAL CINEMA
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163381
 
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT SERIES 1
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87641
+
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT SERIES 2
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124099
+
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT CHANNEL
+http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86866
+
 
 
 
