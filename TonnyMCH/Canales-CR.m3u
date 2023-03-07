@@ -28,13 +28,13 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/39313
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png", TigoSport
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/18622
 
-#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/Multi8.png",Multimedios 
+#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/R3m6caj.png",Multimedios 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/1200px-Deutsche_Welle_symbol_2012.svg.png", DW
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/GW3BaKH.png", DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/argU5Q9r5-gvleMRCafNE2TyaWioaSr69ROMhr4nXG1iuzrT1noRMDJX8qAoYCZsfOA", TELESUR ~
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/5GIkzyP.png", TELESUR 
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w987132442.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
@@ -43,19 +43,10 @@ https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png", 88stereo
 http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
 
-#EXTINF:-1 group-title="Mexico" tvg-logo="http://photocall.tv/images/multimedios.png",Multimedios Monterrey
-http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?ref=http://www.multimedios.com
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://photocall.tv/images/multivision.png",Multivision Argentina
-http://panel.dattalive.com:1935/8250/8250/.m3u8
-
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/Canal_9_de_Resistencia_-_Imagen_del_Nordeste.png", Canal 9
-http://201.217.245.41:8081/testmelucas/canal9/playlist.m3u8
-
 #EXTINF:-1 group-title="Cine" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png",Wow TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
 
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsicarditv.com.ar%2F&psig=AOvVaw2NQ79-H2Aq-BPJ-NtqlvbT&ust=1676752880650000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMCX-7C1nf0CFQAAAAAdAAAAABAE", SicardiTV
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/hWJdyBV.png", SicardiTV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
 #EXTINF:-1 group-title="Doctor Who",Doctor Who 🩺⌛
@@ -67,10 +58,7 @@ https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_77
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="http://imgfz.com/i/3CqRW2U.png", Cartoon Network 
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30316
 
-#EXTINF:-1 group-title="Películas" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Espía Invisible (2020)
-https://archive.org/download/sr-y-sra-smith/Esp%C3%ADa%20invisible.mp4
-
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://static3.teletica.com/Files/Sizes/2021/2/4/canales_1764887849_380x260.png", Radio Teletica
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/wMgyXRi.png", Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://animedb.org/styles/img/nekogirl.webp",Películas familiares
@@ -82,7 +70,8 @@ https://azxtv.com/hls/stream.m3u8
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png", Anime SubEspañol 👀
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12076
 
-#EXTINF:-1 group-title="Películas" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es", De Película 🎬📽
+#EXTINF:-1 group-title="Películas" 
+tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/22/De_Pel%C3%ADcula_2003-2011.png/revision/latest?cb=20191216004334&path-prefix=es", De Película 🎬📽
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37960
 
 #EXTINF:-1 group-title="Películas" tvg-logo="https://i.pinimg.com/originals/6a/34/3c/6a343ceb7470862f20c9f5d8835b372d.png",Cantinflas
@@ -124,7 +113,6 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128016
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/uSaOyQe.png.png", UNIVERSAL CINEMA
 http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163381
 
-#EXTINF: -1 group-title="Cine" tvg-logo="http://imgfz.com/i/j4IucQR.png", Gato con Botas 😸👢👢⚔
-https://ff25a09a1579553b4e5c18fdb49be31ba24bba14348101a5ea13cca-apidata.googleusercontent.com/download/storage/v1/b/zzttv2/o/cmc%2F101464--532b60ee-b6cf-4c04-93ea-c7920cac3e14--BK--ujkb--1140848-google_storage?jk=AahUMltmPzn83fxfF19VRhOn2T-JgkQupHfM1nSDUjt5cFEsswMSOQDI_OVBVA7G9ITyUKJq5BXkIZp1o-yIikYwxPKOQIRjieH-DKBHOpFwl_hhHIZ-5SyVG1LnSM7dghgbOhrOcHIwCaAo3PZ_mlAatitVdIo3E4vDzyCBFFd45apsGJoB4TDqIE8r7vn_c8Gvsy1dkvUhRpGQhr48kmrRlo8-DNohm5Y3hC8jkzi8-2yqP8LfZ1-y_rQ-s088t4QpQkEoWCF32EiFFzwrrDxfmYGTvcGzEo7KfznvASW0TpSwiHjIWtNMHq6VGHRpJFMZEIhIZiFAh0s2lSoiO4uuFmsFfFQAUCAeOPYaDnE_kgpkbeLxe2UWmrWx5aHlTkEXxJcVF0U0ZQAOD1gVE-BydZ26Szk7TrBB3MU6RKAxEExrcHPMJYsK2zcouXG4pLfXc_Ak-OT8eTlOcZM8X9lV1ttRpSMPyFzWcrA721LjG61cLv6p52fkUxFZnA3EmCtRLU9u6XBno_VLE7cgcWOXTfJnlrUvl34amz6-o0k3VwuYD36tLiEN1YsLAeiU6837gUPj9KoCca05tRyv42VTnlmUMDtUYloqgaQZHba5YTrw66TYJ2jYeRZSoQ1qhC0uoPbYZ5RHa1wgGMAShit8bZT6sCtRJBwPgt4I2gADcfhxq99aKwMyN6bRTQlY0wgbIro7gRqh0MqD_eGwJ1EehhOp0_M9nIh5tqDCwAE1I3f56cq1tRTeCYBkYH9XhDuKHhmL7HpE5hWEb3tNSsj3hn3ca9Gx9mFhzqfVGNoQxQM8esD3LuNSR9tjZUnsCbLeLqsV3jxi4H1JWC08gHlzJcFU3mB5PfhL2cPTGleVmfGeTQfzM8LQWQOefwIPQoqVZRg8l65vYQHpvWKV4QSQAq07wr-KAaoQty28HwWPM3lERsRusXeoaZr8d5jNHJKghHHLVNWrbXqLCqYvQOTSBPl4vHKwTLSGnaMhjILzYspHRkBt1FnBJtV6ElG-eztfjmd78HJFOCcibHygVrmKveUB8FIvHkpLeovHij9c-iMpJeQFjkw-4A2nC1lMu8cvsPFvbcc1qOJu6y2nHTeUlO2__v6D5fLDvDWTQq4zdFekg4agRf1bmGq7L1Rkv_bX-6MK5IhZ9akrrTB4hc0pyFpPz0H-hp1-neGQ9pH5jciUTZosenejy8cfKhNPqwsx-cahVXLN5KDMALEAgSRGnhlbFthwut4J1TY0sc0-Hyp4NOBYQPSpli7o0pG8ATmRPJ-20F5FEbWuPBPNh6efC5ra&isca=1
+
 
 
