@@ -23,7 +23,10 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/39313
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:network-caching=1000
+https://m3ukodi.com/developer/budtvultra/budtv.php?5702-902631
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png", TigoSport
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/18622
