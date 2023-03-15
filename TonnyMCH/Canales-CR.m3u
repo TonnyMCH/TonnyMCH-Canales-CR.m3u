@@ -130,4 +130,10 @@ http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86866
 #EXTINF: -1 group-title="Prueba" tvg-logo=, Anime
 http://192.168.8.100:30001/file/s1ldbvRN/video.mp4
 
+#EXTINF:0,PELICULAS|HBO HD
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent=
+#EXTVLCOPT:network-caching=1000
+https://m3ukodi.com/developer/budtvultra/budtv.php?4786-2202
+
 
