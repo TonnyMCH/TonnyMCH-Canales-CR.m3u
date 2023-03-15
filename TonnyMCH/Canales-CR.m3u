@@ -22,7 +22,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
-#EXTINF: 0 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
+#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
 https://m3ukodi.com/developer/budtvultra/budtv.php?5702-902631
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png", TigoSport
@@ -79,13 +79,12 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38745
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/lCmPpTh.png", HBO
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37999
 
-#EXTINF: 0 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
-#EXTVLCOPT:network-caching=1000
 https://m3ukodi.com/developer/budtvultra/budtv.php?4712-2092
 
-#EXTINF: 0 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/yzvhu1E.png", AXN
+#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/yzvhu1E.png", AXN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:network-caching=1000
