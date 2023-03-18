@@ -80,7 +80,8 @@ http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37960
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38745
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/lCmPpTh.png", HBO
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37999
+#EXTVLCOPT:network-caching=1000
+http://51.222.25.50:25461/m0nk/n3w/3145
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
 #EXTVLCOPT:network-caching=1000
