@@ -59,7 +59,7 @@ https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/
 https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
 
 #EXTINF: -1 group-title="ANIMACION" tvg-logo="http://imgfz.com/i/3CqRW2U.png", Cartoon Network 
-http://flash.shortgod.com/perualmando/tv2.php?id=114&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/bye2022/tv7.php?id=114
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/wMgyXRi.png", Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
@@ -71,7 +71,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a00090
 https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxSPEmR/111397
 
 #EXTINF:-1 group-title="Anime" tvg-logo="https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png", Anime SubEspañol 👀
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12076
+http://flash.shortgod.com/bye2022/tv7.php?id=12076
 
 #EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/YMuAK1Z.png", De Película 🎬📽
 http://flash.shortgod.com/bye2022/tv7.php?id=3285
