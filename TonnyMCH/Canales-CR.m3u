@@ -5,7 +5,7 @@
 http://51.222.25.50:25461/m0nk/n3w/793
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamCR/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 http://190.186.159.19:58001/play/a03g/index.m3u8
