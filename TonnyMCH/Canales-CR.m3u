@@ -26,7 +26,7 @@ https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
 https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
-http://flash.shortgod.com/perualmando/tv7.php?id=39352
+http://flash.shortgod.com/bye2022/tv7.php?id=39352
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png", TigoSport
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/18622
@@ -74,10 +74,10 @@ https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxS
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12076
 
 #EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/YMuAK1Z.png", De Película 🎬📽
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/37960
+http://flash.shortgod.com/bye2022/tv7.php?id=3285
 
 #EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/S0ABTwt.png",Cantinflas
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38745
+http://flash.shortgod.com/bye2022/tv7.php?id=38745
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/mAJPDY7.png", HBO
 #EXTVLCOPT:network-caching=1000
