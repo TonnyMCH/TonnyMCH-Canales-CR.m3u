@@ -11,16 +11,16 @@ http://190.186.159.19:58001/play/a03g/index.m3u8
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal2_360.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal4_720.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png",Canal 6 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal6_720.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
-https://d3bgcstab9qhdz.cloudfront.net/hls/canal11_720.m3u8
+https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
 http://flash.shortgod.com/bye2022/tv7.php?id=39352
