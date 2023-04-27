@@ -71,24 +71,27 @@ https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxS
 http://flash.shortgod.com/bye2022/tv7.php?id=12076
 
 #EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/YMuAK1Z.png", De Película 🎬📽
-http://flash.shortgod.com/bye2022/tv7.php?id=3285
+http://flash.shortgod.com/maestrope/tv1.php?id=704
 
 #EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/S0ABTwt.png",Cantinflas
-http://flash.shortgod.com/bye2022/tv7.php?id=38745
+http://flash.shortgod.com/maestrope/tv1.php?id=8457
+
+#EXTINF:-1, Chavo del 8 🛢️
+http://flash.shortgod.com/maestrope/tv2.php?id=150&token=ShortGod&file=.m3u8
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/mAJPDY7.png", HBO
 #EXTVLCOPT:network-caching=1000
-http://51.222.25.50:25461/m0nk/n3w/3145
+http://flash.shortgod.com/maestrope/tv1.php?id=393
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
 #EXTVLCOPT:network-caching=1000
-http://51.222.25.50:25461/m0nk/n3w/97
+http://flash.shortgod.com/maestrope/tv1.php?id=171
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/yzvhu1E.png", AXN
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent=
 #EXTVLCOPT:network-caching=1000
-http://flash.shortgod.com/perualmando/tv3.php?id=a047
+http://flash.shortgod.com/maestrope/tv1.php?id=376
 
 #EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/WKVM4CJ.png", DREAMWORKS 
 http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12074
