@@ -2,7 +2,7 @@
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
 #EXTVLCOPT:network-caching=1000
-https://streamtape.com/get_video?id=vBL1bOxlvoC4XW8&expires=1683203767&ip=F0uUKRWQFI9XKxR&token=YulVIK8IO9bF&stream=1
+https://867337140.tapecontent.net/radosgw/dpQzZy7DzaTkRy2/bL8MkcKJ_QQ-rpdep3QyGBGvxEVg_eC76TwU_OPP-RX9qsW3YACeEnxgn6EyaHt5pbi50cDWw0yQbftlc3mcrU5_C9msFjBuPkNmaLkM3sPgwr2AfJYqBLT6sslAupWoLdJ_Y_88zGcx6s40um4UUv1bOw-v30e8kVRlEuckiFrNh12I4VXrk5aucyFyv3xg0FrgKkC7Og2U9u6AXBiRRQ9dvPRo81rObM1hALWnUdPqqTsAdZiQTT_FDWv1mR3JeA-e6-H_Xupn2gCt/3790_5.mp4?stream=1
 
 #EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
 http://190.186.159.19:58001/play/a03g/index.m3u8
