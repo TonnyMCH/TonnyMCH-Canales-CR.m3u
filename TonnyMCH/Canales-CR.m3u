@@ -1,144 +1,76 @@
 #EXTM3U
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png", Canal 7  Teletica
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png, Canal 7  Teletica
 #EXTVLCOPT:network-caching=1000
 https://m6gdar5eyn93-hls-live.5centscdn.com:443/StreamTeletica/73aac4dc8f2bab2a5d9525001c401af8.sdp/StreamTeletica/stream7para24x7ott1/chunks.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://elsembradorministries.com/esne_deployment/images/logo_azul.png", Sembrador
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://elsembradorministries.com/esne_deployment/images/logo_azul.png, Sembrador
 http://190.186.159.19:58001/play/a03g/index.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png", San José TV
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png, San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png",Canal 2 Repretel
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/6/63/Repretel_2_CDR.png,Canal 2 Repretel
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png",Canal 4 Repretel
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png,Canal 4 Repretel
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal4.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png",Canal 6 Repretel
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png,Canal 6 Repretel
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png",Canal 11 Repretel
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/ac/Repretel_11_logo.png,Canal 11 Repretel
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal11.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://admin.futvcr.com/assets/img/logo-futv.webp", Futv 
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://admin.futvcr.com/assets/img/logo-futv.webp, Futv 
 http://flash.shortgod.com/bye2022/tv7.php?id=39352
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png", TigoSport
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://img2.sport-tv-guide.live/images/tv-station-tigo-sports-cr-1791.png, TigoSport
 http://51.222.25.50:25461/m0nk/n3w/790
 
-#EXTINF:-1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/R3m6caj.png",Multimedios 
+#EXTINF:-1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/R3m6caj.png,Multimedios 
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8?ref=http://www.multimedios.com
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/GW3BaKH.png", DW
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/GW3BaKH.png, DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/5GIkzyP.png", TELESUR 
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/5GIkzyP.png, TELESUR 
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w987132442.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png", Canal 14 TvSur
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://www.tvsur.co.cr/wp-content/uploads/2022/09/logo-tvsur-mantenimiento.png, Canal 14 TvSur
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png", 88stereo
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://costaricatelevision.com/sites/default/files/2022-09/88Stereo-Costa-Rica.png, 88stereo
 http://k88.usastreams.com/CableLatino/88stereo/playlist.m3u8
-
-#EXTINF:-1 group-title="Cine" tvg-logo="http://sivar.tv/wp-content/uploads/2016/05/canal-24-occidente.png",Wow TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
-
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/hWJdyBV.png", SicardiTV
+#EXTINF:-1 group-title=”Entretenimiento” tvg-logo=http://imgfz.com/i/hWJdyBV.png, SicardiTV
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 
-#EXTINF:-1 group-title="Doctor Who",Doctor Who 🩺⌛
+#EXTINF:-1 group-title=”Doctor Who”,Doctor Who 🩺⌛
 https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_DoctorWho/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3875&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=9c3f5860-b8df-48e2-a0e8-0e614c67b72d&ads.user_type=visitor&ads.wurl_channel=931
 
-#EXTINF: -1 group-title="ANIMACION" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/99bcff8c6beafba1b9bb9959647663e6.webp", ZAZ ⛩
-https://stream-us-east-1.getpublica.com/cl/230131cfcqe6hpk553i6m9cu1g/490x360_770726_5_f.m3u8?i=513_1972
-
-#EXTINF: -1 group-title="ANIMACION" tvg-logo="http://imgfz.com/i/3CqRW2U.png", Cartoon Network 
+#EXTINF: -1 group-title=”ANIMACION” tvg-logo=http://imgfz.com/i/3CqRW2U.png, Cartoon Network 
 http://flash.shortgod.com/bye2022/tv7.php?id=40837
 
-#EXTINF: -1 group-title="Canales Costa Rica" tvg-logo="http://imgfz.com/i/wMgyXRi.png", Radio Teletica
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/wMgyXRi.png, Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
 
-#EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/unMHpPZ.png",Películas familiares
+#EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/unMHpPZ.png,Películas familiares
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="Anime" tvg-logo="https://i.imgur.com/OQhrXzW.png", Anime Latino 👀
+#EXTINF:-1 group-title=”Anime” tvg-logo=https://i.imgur.com/OQhrXzW.png, Anime Latino 👀
 https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxSPEmR/111397
 
-#EXTINF:-1 group-title="Anime" tvg-logo="https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png", Anime SubEspañol 👀
+#EXTINF:-1 group-title=”Anime” tvg-logo=https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png, Anime SubEspañol 👀
 https://streamtape.com/get_video?id=vBL1bOxlvoC4XW8&expires=1683203767&ip=F0uUKRWQFI9XKxR&token=YulVIK8IO9bF&stream=1
 
-#EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/YMuAK1Z.png", De Película 🎬📽
+#EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/YMuAK1Z.png, De Película 🎬📽
 http://flash.shortgod.com/maestrope/tv1.php?id=704
 
-#EXTINF:-1 group-title="Películas" tvg-logo="http://imgfz.com/i/S0ABTwt.png",Cantinflas
+#EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/S0ABTwt.png,Cantinflas
 http://flash.shortgod.com/maestrope/tv1.php?id=8457
 
 #EXTINF:-1, Chavo del 8 🛢️
 http://flash.shortgod.com/maestrope/tv2.php?id=150&token=ShortGod&file=.m3u8
 
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/mAJPDY7.png", HBO
-#EXTVLCOPT:network-caching=1000
-http://flash.shortgod.com/maestrope/tv1.php?id=393
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/vAeVfIq.png", STAR 
-#EXTVLCOPT:network-caching=1000
-http://flash.shortgod.com/maestrope/tv1.php?id=171
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/yzvhu1E.png", AXN
-#EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-user-agent=
-#EXTVLCOPT:network-caching=1000
-http://flash.shortgod.com/maestrope/tv1.php?id=376
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/WKVM4CJ.png", DREAMWORKS 
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/12074
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/2Pwd4cL.png", NICK
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/40838
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/VxtIkRu.png", SYFY
-http://flash.shortgod.com/perualmando/tv8.php?id=4132
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/ELUey0m.png", DISNEY
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/30327
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/XZvOM1C.png", NETFLIX 1
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/38685
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/XZvOM1C.png", NETFLIX 2
-http://xcm.budtv-ultra.com:25461/budtvsports/wTu27rKVNU/49776
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/XmBWCe0.png", UNIVERSAL 
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87013
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/StDmIQb.png", UNIVERSAL PREMIUM
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/128016
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/uSaOyQe.png.png", UNIVERSAL CINEMA
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/163381
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT SERIES 1
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/87641
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT SERIES 2
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/124099
-
-#EXTINF: -1 group-title="Entretenimiento" tvg-logo="http://imgfz.com/i/Cv1PkV5.png", TNT CHANNEL
-http://playhispano.org:25461/skytvperu/e7aSxSPEmR/86866
-
-#EXTINF: -1 group-title="Radio 📻" tvg-logo=, Radio Fidez 🎶
-https://delivery-node-hp7ggvzgmt9khcvf.voe-network.net/engine/hls2/01/09002/5nvzqari1amp_n/master.m3u8?t=x7TViuh1V43CecC_v_zBIcZKwAGicndQqZHGjI-Ayrw&s=1684284585&e=14400&f=45010860&node=delivery-node-hp7ggvzgmt9khcvf.voe-network.net&i=186.179&sp=4500&asn=52468
-
-#EXTINF: -1 group-title="Prueba" tvg-logo=, Anime
-https://2371755321.tapecontent.net/radosgw/pMdRQblrvgUrYZJ/jNOKfP5YRqG0UmFMx5IT4APGpPh1rHLmTuYaj1MH32OaMfTmT8WUA97ZsL2VbuOvgXpc5xqmdYEuItIc1sFEmnLqfV5qFDjG-ceNUv0UVP32mxIRzdYEHgF6LiFeVefiI25IQ1xpFm60y0jswvDtMA2O9vWBPyCLlUrBaLmPekuBGyqV3rQRKkj1yjblMQ365dJWIMtaxT8TubthcjXGuXf2hBYIbN6Rk-UhRter6LIZy2kQFhkCNeItalfamS9T42_uwfJEv3XOBzXF/3785_9.mp4?stream=1
-
-
-
-
-
-
-
-
+#EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Sinai
+http://198.27.68.65:8785/;
