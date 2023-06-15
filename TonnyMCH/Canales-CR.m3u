@@ -64,13 +64,13 @@ https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxS
 https://streamtape.com/get_video?id=vBL1bOxlvoC4XW8&expires=1683203767&ip=F0uUKRWQFI9XKxR&token=YulVIK8IO9bF&stream=1
 
 #EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/YMuAK1Z.png, De Película 🎬📽
-http://flash.shortgod.com/maestrope/tv1.php?id=704
+http://flash.shortgod.com/nodawin/tv2.php?id=532.ts
 
-#EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/S0ABTwt.png,Cantinflas
-http://flash.shortgod.com/maestrope/tv1.php?id=8457
+#EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/S0ABTwt.png,Mi Bella Jenio 🧞‍♀️
+http://flash.shortgod.com/nodawin/tv2.php?id=128.ts
 
 #EXTINF:-1, Chavo del 8 🛢️
-http://flash.shortgod.com/maestrope/tv2.php?id=150&token=ShortGod&file=.m3u8
+http://flash.shortgod.com/nodawin/tv2.php?id=129.ts
 
 #EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Sinai
 http://198.27.68.65:8785/;
