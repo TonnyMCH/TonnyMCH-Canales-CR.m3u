@@ -74,3 +74,6 @@ http://flash.shortgod.com/nodawin/tv2.php?id=129.ts
 
 #EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Sinai
 http://198.27.68.65:8785/;
+
+#EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Católico Mundial
+https://1654596987.rsc.cdn77.org/1654596987/index.m3u8
