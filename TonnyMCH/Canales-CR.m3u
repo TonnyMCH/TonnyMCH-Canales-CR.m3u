@@ -49,7 +49,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_DoctorWho/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3875&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=9c3f5860-b8df-48e2-a0e8-0e614c67b72d&ads.user_type=visitor&ads.wurl_channel=931
 
 #EXTINF: -1 group-title=”ANIMACION” tvg-logo=http://imgfz.com/i/3CqRW2U.png, Cartoon Network 
-http://flash.shortgod.com/bye2022/tv7.php?id=40837
+http://pe.shortgod.com/miguel2023/tv2.php?id=381.ts
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/wMgyXRi.png, Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
@@ -57,8 +57,8 @@ https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9a
 #EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/unMHpPZ.png,Películas familiares
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title=”Anime” tvg-logo=https://i.imgur.com/OQhrXzW.png, Anime Latino 👀
-https://azxtv.com/hls/stream.m3u8, http://playhispano.org:25461/skytvperu/e7aSxSPEmR/111397
+#EXTINF:-1 group-title=”Películas” tvg-logo=https://i.imgur.com/OQhrXzW.png, Películas 👀
+http://pe.shortgod.com/miguel2023/tv2.php?id=99.ts
 
 #EXTINF:-1 group-title=”Anime” tvg-logo=https://www.pngmart.com/files/17/Cute-Anime-Girl-Transparent-PNG.png, Anime SubEspañol 👀
 https://streamtape.com/get_video?id=vBL1bOxlvoC4XW8&expires=1683203767&ip=F0uUKRWQFI9XKxR&token=YulVIK8IO9bF&stream=1
@@ -67,10 +67,10 @@ https://streamtape.com/get_video?id=vBL1bOxlvoC4XW8&expires=1683203767&ip=F0uUKR
 http://flash.shortgod.com/nodawin/tv2.php?id=532.ts
 
 #EXTINF:-1 group-title=”Películas” tvg-logo=http://imgfz.com/i/erB5aNF.png,Mi Bella Jenio 🧞‍♀️
-http://pe.shortgod.com/lord20/tv2.php?id=128.ts
+http://pe.shortgod.com/miguel2023/tv2.php?id=128.ts
 
 #EXTINF:-1, Chavo del 8 🛢️
-http://pe.shortgod.com/lord20/tv1.php?id=2045
+http://pe.shortgod.com/miguel2023/tv2.php?id=129.ts
 
 #EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Sinai
 http://198.27.68.65:8785/;
