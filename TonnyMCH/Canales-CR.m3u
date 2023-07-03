@@ -49,7 +49,7 @@ https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8
 https://9176f3e149474dbfa51853e72e273576.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-it_DoctorWho/playlist.m3u8?ads.content_classification=6&ads.device_lmt=1&ads.device_make=&ads.device_model=&ads.device_type=web&ads.device_year=&ads.env=prod&ads.gdpr_consent=&ads.market=it&ads.player_height=&ads.player_width=&ads.pod_type=playerpage_midroll&ads.ppid=&ads.rtv_content_id=3875&ads.rtv_content_language=ita&ads.rtvid=271861&ads.streaming_id=9c3f5860-b8df-48e2-a0e8-0e614c67b72d&ads.user_type=visitor&ads.wurl_channel=931
 
 #EXTINF: -1 group-title=”ANIMACION” tvg-logo=http://imgfz.com/i/3CqRW2U.png, Cartoon Network 
-http://pe.shortgod.com/miguel2023/tv2.php?id=381.ts
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=http://imgfz.com/i/wMgyXRi.png, Radio Teletica
 https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStreamTRadio/bbcfd43fb9ad3b22af53808371ce9a16.sdp/playlist.m3u8
@@ -77,3 +77,10 @@ http://198.27.68.65:8785/;
 
 #EXTINF: -1 group-title=”Radio” tvg-logo=, Radio Católico Mundial
 https://1654596987.rsc.cdn77.org/1654596987/index.m3u8
+
+#EXTINF: -1 group-title=”Doctor Who” tvg-logo=, Doctor Who 🩺⌛ En español
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
+
+#EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
+https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
+
