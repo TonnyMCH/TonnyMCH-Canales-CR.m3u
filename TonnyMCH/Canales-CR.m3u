@@ -84,3 +84,5 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e9
 #EXTINF:-1 tvg-id="CartoonNetworkMexico.mx" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/512px-Cartoon_Network_2010_logo.svg.png" group-title="Kids",Cartoon Network México (720p)
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist-720p.m3u8
 
+#EXTINF:-1 group-title="Mononogatari 2nd", capitulo 2
+https://streamtape.com/get_video?id=26y99eRjpvtAm9&expires=1689806350&ip=F0uUKRWQFI9XKxR&token=x4JG2WPXFHHX&stream=1
