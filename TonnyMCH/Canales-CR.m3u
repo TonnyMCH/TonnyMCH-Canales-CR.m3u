@@ -2,7 +2,7 @@
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png, Canal 7  Teletica
 #EXTVLCOPT:network-caching=1000
-http://50.7.66.234:8080/Javier1120/112020/8148
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF: -1, Anime 1
 https://2448360001.tapecontent.net/radosgw/jP0v4olZ9aCzWY1/kd_YfhUBjH14pXFA-MRUTw-VZRlhVGTVkd8mK55p9Z0dp-1Z0PPf8CardMRV-gfQD8wMc5uGOVXciy42uCPnwqu4QcAE9DjuZJFyPiE25iF6WjGxywDFE-HL1ObT0v5BhvIFmcdzOGcZnaOxlitp0fh1bcesABDCUlIDPw-HsEN09EvYAM9p0iO72FC-_yv0cx3sTeZ4JmBIUFURWy3kUyYDFpBGmIYKYyf86UArXxhHVVbOp_jRR3V2y_BYQxdrn0JTnrFd2T8DM6gU/3885_4.mp4?stream=1
