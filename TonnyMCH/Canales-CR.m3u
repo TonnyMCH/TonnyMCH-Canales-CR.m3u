@@ -10,10 +10,10 @@ https://2448360001.tapecontent.net/radosgw/jP0v4olZ9aCzWY1/kd_YfhUBjH14pXFA-MRUT
 #EXTINF: -1, Anime 2
 https://2453340480.tapecontent.net/radosgw/KJyrDOGrrKf0krl/DE_WP86KtH5bd65xWC3MU_AGhz6PcBONN88_6RkLepO7Lzz-MpYPiWzH1rjk4roovvTCGejtfJN3qw1BaxNFyy-ALk6_9tVHrrAt3Bgm1m71UX8xU35vfBV6UIhbpBK-XEJpiBRqJFjJOlAL-_3dQrKgs-l2eORAYG6q6wMzJQeS-rVSIkmtICKyPQpckkiN_hpdF5SohjmX8zGxZrvIBgAwhIouKTqCdwpD4QQhplt9vOWrieAf1YDyHM-sqdjhnB6Znoj-DrQo9NY6/3785_14.mp4?stream=1
 
-#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://elsembradorministries.com/esne_deployment/images/logo_azul.png, Sembrador
+#EXTINF: -1 group-title=”Canales Costa Rica”, Sembrador
 http://190.186.159.19:58001/play/a03g/index.m3u8
 
-#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://directostv.teleame.com/wp-content/uploads/2018/07/san-jose-tv-costa-rica.png, San José TV
+#EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=, San José TV
 https://rtmp.info/sanjosetv/envivo/chunklist_w1778746205.m3u8
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://admin.futvcr.com/assets/img/logo-futv.webp, Futv 
@@ -70,7 +70,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e9
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2.m3u8
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5e/Repretel_4_logo.png,Canal 4 Repretel
-https://d2t46xrpai3it5.cloudfront.net:443/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/chunks.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/5/5c/Canal6CR.png,Canal 6 Repretel
 https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
