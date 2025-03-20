@@ -2,7 +2,7 @@
 
 #EXTINF: -1 group-title=”Canales Costa Rica” tvg-logo=https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png, Canal 7  Teletica
 #EXTVLCOPT:network-caching=1000
-https://2565136267.tapecontent.net/radosgw/K4z4OakLXgc0RRr/bDgOfHXBD00JGWMLu55-JW5MEmf2h1ssju5HmIuLSrdrXDACsjdkx4dVfS_0thTtK8Ah3x9G2xGjUgeEQsBhX_epPt2ZRHxiq6mrHvxtHv2jl6rB1EebaWqBMHhaWmtOhyYKVHvIvkpvYyW0VLujj0ViYV6xVzVKJIR6W9hAn-jSCIglXqONTuE_9PyOPCLMjyQQZ7UmvuEacGMxJy4qFAkVY9FsmluwxBTwJFDm-vEn1C_9c52WMdB0IpNT1EW0euOXKAZu3AgfOyXG/4068_3.mp4?stream=1
+http://192.168.8.102:8080/videos/video1.mp4
 
 #EXTINF: -1, Anime 1
 https://delivery-node-lx3y0goydwciiimz.voe-network.net/engine/hls2/01/11941/bjt7jauuypf5_,n,.urlset/master.m3u8?t=xaZizKnbFQXKSBpeqO-7PQkDaWYCLisRJGfFg2WAmGw&s=1736058635&e=14400&f=59709051&node=FvLLQmFLPprhIaaK7QxxW1GPH4U48RVkH2s8+1QkG/U=&i=181.78&sp=2500&asn=1&q=n
